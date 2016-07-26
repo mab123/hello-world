@@ -1,9 +1,9 @@
 # hello-world
 Not just any repository
 
-# pacing between stage left and stage right
+# Pacing between stage left and stage right
 This is your boy Marco repping the mab123. We out here in the struggle saving the world one line of code at a time. Let me hear you scream!
-# crowd erupts into deafening cheer and thunderous applause
+# Crowd erupts into deafening cheer and thunderous applause
 
 Now before we start making moves on the front lines of society for our generation, we gotta settle something once and for all.
 This is a matter of where YOU stand as an individual.
